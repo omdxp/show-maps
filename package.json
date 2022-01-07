@@ -1,0 +1,27 @@
+{
+  "name": "show-maps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omar-Belghaouti/show-maps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omar-Belghaouti/show-maps/issues"
+  },
+  "homepage": "https://github.com/Omar-Belghaouti/show-maps#readme",
+  "devDependencies": {
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.4",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.7.2"
+  }
+}
